@@ -24,6 +24,7 @@ Scenario: Verify if Delete Place functionality is working
 	Scenario: UpdatePlace
 
 		//added this comment from APiframework guy
+		//plan for test cases: add more test scenarios
 	 
 
 
