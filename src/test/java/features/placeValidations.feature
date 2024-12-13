@@ -22,6 +22,8 @@ Scenario: Verify if Delete Place functionality is working
 	And "status" in response body is "OK"
 
 	Scenario: UpdatePlace
+
+		//added this comment from APiframework guy
 	 
 
 
